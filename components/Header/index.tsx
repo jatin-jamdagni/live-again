@@ -148,7 +148,7 @@ const Header = () => {
             <ThemeToggler />
 
             <Link
-              href="https://github.com/NextJSTemplates/solid-nextjs"
+              href="/contact-us"
               className="text-regular font-medium text-waterloo hover:text-primary"
             >
               Contact Us
